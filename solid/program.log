@@ -1,0 +1,6 @@
+2024-12-08 19:37:09,839 - __main__ - INFO - Book with title 'fd' not found.
+2024-12-08 19:37:19,310 - __main__ - INFO - No books available in the library.
+2024-12-08 19:37:32,033 - __main__ - INFO - Book added: Title: My Life, Author: Artur, Year: 1981
+2024-12-08 19:38:01,203 - __main__ - INFO - Book removed: My Life
+2024-12-08 19:38:05,222 - __main__ - INFO - No books available in the library.
+2024-12-08 19:38:08,620 - __main__ - INFO - Goodbye!
